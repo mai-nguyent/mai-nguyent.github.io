@@ -4,34 +4,26 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# Introduction
 
-I'm a software developer with a love for clean code, automation, and continuous learning.
+This space is a collection of thoughts, experiments, and lessons learned along the way. It brings together ideas from building products, exploring technology, and observing how things work in practice.
 
-## Background
+## Why This Exists
 
-I started programming out of curiosity and never stopped. Over the years I've worked across the stack — from writing shell scripts and backend services to building web interfaces and deploying to the cloud.
+There’s value in writing things down — not just to share, but to clarify thinking. This site serves as a place to capture insights, document progress, and reflect on experiences over time.
 
-## Interests
+## What You’ll Find Here
 
-- **Open source** — contributing to and learning from public projects
-- **DevOps & automation** — making repetitive tasks disappear
-- **Web development** — building things people actually use
-- **Reading** — technology, history, and the occasional novel
+The content here focuses on:
+- Building and improving systems
+- Practical lessons from real-world work
+- Observations on technology and product thinking
+- Continuous learning and iteration
 
-## Skills
+## A Work in Progress
 
-| Area | Technologies |
-|------|-------------|
-| Languages | Python, JavaScript, Ruby, Bash |
-| Web | HTML, CSS, Jekyll, React |
-| DevOps | Git, Docker, GitHub Actions |
-| Cloud | AWS, GitHub Pages |
-
-## Education
-
-Self-taught developer with a background in computer science fundamentals, supplemented by online courses and real-world projects.
+Nothing here is meant to be final. Ideas evolve, perspectives change, and each post represents a snapshot in time. Over time, patterns emerge — and that’s where the real value lies.
 
 ---
 
-Want to know more? [Get in touch](/contact).
+If something here resonates, challenges your thinking, or sparks a new idea, then it has served its purpose.

@@ -5,13 +5,11 @@ title: Home
 
 # Welcome to my website
 
-Hi, I'm **maint** — a developer passionate about open source, automation, and building useful things.
-
 This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
 ## What you'll find here
 
-- [About me](/about) — a bit of background on who I am
+- [About me](/about)
 - [Projects](/projects) — things I've built and am working on
 - [Blog](/blog) — thoughts, notes, and write-ups
 - [Contact](/contact) — ways to reach me
