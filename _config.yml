@@ -1,7 +1,7 @@
 title: maint's Website
-description: Personal website of maint — developer, learner, builder.
+description: Personal website of maint
 baseurl: ""
-url: "https://maint.github.io"
+url: "https://mai-nguyent.github.io"
 
 theme: jekyll-theme-cayman
 
