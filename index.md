@@ -7,6 +7,8 @@ title: Home
 
 This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
+This space is a collection of thoughts, experiments, and lessons learned along the way. It brings together ideas from building products, exploring technology, and observing how things work in practice.
+
 ## What you'll find here
 
 - [About me](/about)

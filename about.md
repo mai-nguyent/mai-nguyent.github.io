@@ -6,7 +6,7 @@ permalink: /about/
 
 # Introduction
 
-This space is a collection of thoughts, experiments, and lessons learned along the way. It brings together ideas from building products, exploring technology, and observing how things work in practice.
+My name is **maint** - a very new developer, still in beta.
 
 ## Why This Exists
 

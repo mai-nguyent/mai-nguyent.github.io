@@ -10,7 +10,7 @@ A selection of things I've built, contributed to, or am currently working on.
 
 ---
 
-## maint.github.io
+## mai-nguyent.github.io
 
 **This very website** — built with Jekyll and hosted on GitHub Pages.
 
