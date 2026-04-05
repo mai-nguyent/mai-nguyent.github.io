@@ -1,29 +1,33 @@
 ---
 layout: default
-title: "Why I Love Open Source"
-date: 2026-02-20
+title: "What Building My First Website Taught Me"
+date: 2026-04-06
 ---
 
-# Why I Love Open Source
+# What Building My First Website Taught Me
 
-Open source software has shaped how I think about code, collaboration, and quality. Here's why I keep coming back to it.
+Creating my first website wasn’t just about learning tools — it fundamentally changed how I think about building and shipping products.
 
-## Learning from Real Code
+## From Idea to Reality
 
-Reading production-quality open source code is one of the fastest ways to improve. Unlike tutorials, real projects deal with edge cases, performance, backward compatibility, and messy requirements — all of which make for genuinely instructive reading.
+Before this, most of my ideas lived in notes or unfinished drafts. Publishing a website forced me to move from thinking to doing. Even a simple page made the idea tangible — something real that others could see and interact with.
 
-## The Feedback Loop
+## The Importance of Simplicity
 
-When you contribute to an open source project, you get feedback from experienced developers who care deeply about code quality. A good code review on a public project has taught me more in a single comment than hours of solo debugging.
+I started with too many ideas: animations, complex layouts, multiple features. But the more I built, the more I realized that simplicity wins. A clean, fast, readable site is far more valuable than an over-engineered one.
 
-## Building in the Open
+## Debugging is Learning
 
-There's something motivating about knowing that others can see your work. It raises the bar — naturally — without feeling punitive.
+Things didn’t work the first time — or the second. Broken layouts, missing dependencies, deployment issues. But each problem forced me to understand the system more deeply. Debugging wasn’t a blocker; it was the learning process.
 
-## Giving Back
+## Shipping Matters More Than Perfection
 
-Almost everything I build on relies on open source. Using it without contributing back feels like a one-way relationship. Even small contributions — a typo fix, a test, a bug report — matter.
+At some point, I had to stop tweaking and just publish. That moment changed everything. Once something is live, you get real feedback — and that’s far more valuable than endless polishing.
+
+## Small Wins Build Momentum
+
+Seeing the site live — even with minimal content — created momentum. It made me want to improve it, add more pages, and refine the experience over time.
 
 ---
 
-If you've been meaning to make your first open source contribution, just pick something you already use and look at the open issues. You'll find something approachable faster than you expect.
+If you're thinking about building your own site, don’t wait for the perfect design or idea. Start small, publish early, and iterate. The learning comes from doing.
