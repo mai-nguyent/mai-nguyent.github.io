@@ -1,0 +1,20 @@
+title: maint's Website
+description: Personal website of maint — developer, learner, builder.
+baseurl: ""
+url: "https://maint.github.io"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - docs/
